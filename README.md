@@ -4,7 +4,7 @@ A responsive React interface for browsing freelancer profiles. Each card display
 
 ## Live Demo
 
-The live demo link will be added here after the project is deployed.
+ui-card-project.netlify.app
 
 To preview the project locally:
 
